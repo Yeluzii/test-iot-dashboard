@@ -1,0 +1,5 @@
+# Created at 2025-06-15T14:05:10.064
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Documents\MyProfiles\实训-物联网平台的设计与开发\code\smart_school_dashboard\iot-dashboard-api\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
