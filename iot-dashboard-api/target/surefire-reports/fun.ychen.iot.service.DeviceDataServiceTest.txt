@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fun.ychen.iot.service.DeviceDataServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.941 s -- in fun.ychen.iot.service.DeviceDataServiceTest
